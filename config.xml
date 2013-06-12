@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+Id="com.utm.mobile" version="1.0.0">
+<gap:plataforms>
+<gap:plataform name="android" minVersion="2.1"/>
+</gap:plataforms>
+<feature name="phonegap-version" value="2.7.0"/>
+</widget>
